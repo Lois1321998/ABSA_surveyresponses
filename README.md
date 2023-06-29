@@ -1,7 +1,7 @@
 # Aspect-Based Sentiment Analysis for Open-Ended Survey responses
-Code for thesis project Information : Data Science, University of Amsterdam (2022-2023)\\
-Student: Lois Rink\\
-Thesis project completed at: Randstad Groep Nederland\\
+Code for thesis project Information : Data Science, University of Amsterdam (2022-2023) <br />
+Student: Lois Rink <br />
+Thesis project completed at: Randstad Groep Nederland <br />
 
 
 ## Abstract
