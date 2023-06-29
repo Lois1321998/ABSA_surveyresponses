@@ -1,5 +1,7 @@
-# ABSA_surveyresponses
-Code for thesis project on aspect-based sentiment analysis for open-ended survey responses
+# Aspect-Based Sentiment Analysis for Open-Ended Survey responses
+Code for thesis project Information : Data Science, University of Amsterdam (2022-2023)
+Student: Lois Rink
+Thesis project completed at: Randstad Groep Nederland
 
 
 ## Abstract
