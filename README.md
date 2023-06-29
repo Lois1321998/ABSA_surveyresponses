@@ -1,5 +1,5 @@
 # Aspect-Based Sentiment Analysis for Open-Ended Survey responses
-Code for thesis project Information : Data Science, University of Amsterdam (2022-2023) <br />
+Code for thesis project Information Studies: Data Science, University of Amsterdam (2022-2023) <br />
 Student: Lois Rink <br />
 Thesis project completed at: Randstad Groep Nederland <br />
 
@@ -29,3 +29,6 @@ actionable insights. This work significantly contributes to the field
 of ABSA by demonstrating the first successful application of Dutch
 pre-trained language models to aspect-specific sentiment analysis
 in the domain of human resources (HR).
+
+## Note
+To protect the privacy of the respondents who filled out the surveys, the data for this research will not be published.
